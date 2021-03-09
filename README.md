@@ -1,7 +1,2 @@
-public class Helloworld
-{
-    public static void nain(String[] args)
-    {
-      System.out.println("Hello world!");
-    }
-} 
+# hello-world
+hello-world practice repository
